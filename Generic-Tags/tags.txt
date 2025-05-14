@@ -16,3 +16,8 @@ blurry
 indoors
 outdoors
 looking at viewer
+uniform 
+military 
+school uniform
+military uniform
+pants
