@@ -13,3 +13,5 @@ pantyhose
 skirt
 pantyhose
 blurry
+indoors
+outdoors
